@@ -2,10 +2,10 @@
 #                https://docs.brew.sh/rubydoc/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Journal < Formula
-  desc "CLI journal application written with bubble tea framework (inspired by yazi)"
+  desc "cli journal application that feels like yazi"
   homepage "https://github.com/ypathan/journal"
-  url "https://github.com/ypathan/journal/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "bbe68f03b0fd536a24ec305912eccb0bfcab6e41d519eb196ea408d7080e5a52"
+  url "https://github.com/ypathan/journal/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "aeddcfaa969e2d4b5731af004471f8c693553b27c4a181c4aeddd1c4e36976b7"
   license ""
 
   depends_on "go" => :build
