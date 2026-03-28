@@ -4,8 +4,8 @@
 class Journal < Formula
   desc "cli journal application that feels like yazi"
   homepage "https://github.com/ypathan/journal"
-  url "https://github.com/ypathan/journal/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "aeddcfaa969e2d4b5731af004471f8c693553b27c4a181c4aeddd1c4e36976b7"
+  url "https://github.com/ypathan/journal/archive/refs/tags/v0.1.4.tar.gz"
+  sha256 "4263f556763525618e194e4071bc03d8d3d71a1a1adae7afea49f9c0c86af8f0"
   license ""
 
   depends_on "go" => :build
